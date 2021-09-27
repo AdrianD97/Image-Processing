@@ -1,7 +1,7 @@
 		Image processing
 
 	Image processing using MPI.
-	A distributed algorithm that process a pnm/pgm image using filters.
+	A distributed algorithm that process a pnm/pgm image by applying filters.
 
 	Available filters:
 		- blur
